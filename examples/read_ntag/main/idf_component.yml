@@ -1,0 +1,4 @@
+dependencies:
+  garag/esp-idf-pn5180:
+    version: "*"
+    override_path: '../../../'

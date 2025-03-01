@@ -1,0 +1,12 @@
+version: "0.0.1"
+description: "Component for communication with NFC cards using a PN5180 module"
+url: "https://github.com/garag/esp-idf-pn5180"
+repository: "https://github.com/garag/esp-idf-pn5180.git"
+license: "MIT"
+tags:
+  - nfc
+  - rfid
+  - mifare
+  - ntag
+dependencies:
+  idf: "^5.2"
