@@ -3,3 +3,5 @@
 sdkconfig.old
 sdkconfig
 dependencies.lock
+.idea
+cmake-build-*
